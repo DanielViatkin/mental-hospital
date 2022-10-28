@@ -1,0 +1,5 @@
+INSERT INTO mental_hospital.chamber_staying (hospitalization_id, chamber_id, hospitalization_date, discharge_date, price) VALUES (1, 1, '2022-02-04', '2022-12-12', 123);
+INSERT INTO mental_hospital.chamber_staying (hospitalization_id, chamber_id, hospitalization_date, discharge_date, price) VALUES (1, 1, '2022-02-06', '2022-02-06', 0);
+INSERT INTO mental_hospital.chamber_staying (hospitalization_id, chamber_id, hospitalization_date, discharge_date, price) VALUES (1, 2, '2022-02-06', '2022-02-06', 0);
+INSERT INTO mental_hospital.chamber_staying (hospitalization_id, chamber_id, hospitalization_date, discharge_date, price) VALUES (1, 1, '2022-02-06', '2022-02-06', 0);
+INSERT INTO mental_hospital.chamber_staying (hospitalization_id, chamber_id, hospitalization_date, discharge_date, price) VALUES (13, 2, '2022-02-06', '2022-02-06', 0);
